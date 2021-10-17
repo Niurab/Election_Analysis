@@ -29,6 +29,7 @@ The total number of votes cast in Jefferson county was 38,855 which represented 
 Charles Casper Stockham received 85,213 votes which is 23% of the votes. Diana DeGette received 272,892 votes which is 73.8% of the votes. Raymon Anthony Doane received 11,606 votes which is 3.1% of the votes.
 
 * The winner of the election
+* 
 **Diana DeGette won the election with 272,892 votes representing 73.8% of the votes**
 
 # Election-Audit Summary:
